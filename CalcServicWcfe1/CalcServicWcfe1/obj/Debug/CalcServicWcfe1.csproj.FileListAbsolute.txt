@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\CalcServicWcfe1\CalcServicWcfe1\bin\CalcServicWcfe1.dll.config
+C:\Users\pc\Desktop\CalcServicWcfe1\CalcServicWcfe1\bin\CalcServicWcfe1.dll
+C:\Users\pc\Desktop\CalcServicWcfe1\CalcServicWcfe1\bin\CalcServicWcfe1.pdb
+C:\Users\pc\Desktop\CalcServicWcfe1\CalcServicWcfe1\obj\Debug\CalcServicWcfe1.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\CalcServicWcfe1\CalcServicWcfe1\obj\Debug\CalcServicWcfe1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\CalcServicWcfe1\CalcServicWcfe1\obj\Debug\CalcServicWcfe1.dll
+C:\Users\pc\Desktop\CalcServicWcfe1\CalcServicWcfe1\obj\Debug\CalcServicWcfe1.pdb
